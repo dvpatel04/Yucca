@@ -440,5 +440,8 @@ section.big-cards:has(.cards .card:nth-child(3):hover) .background-images > img:
     background-color: antiquewhite;
 }
 .comitment{
-    
+    height: 30%;
+    width: 100%;
+    background-color: aquamarine;
+
 }
